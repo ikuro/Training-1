@@ -20,7 +20,7 @@
 1. step 1
 2. step 2
 3. 
-### Exploratory Data Analyis
+### Exploratory Data Analysis
 - Q1
 - Q2
 - 
@@ -34,6 +34,9 @@ Where cond=2;
 The analysis results are summarized as follows:
 1. xyz
 2. abc
+
+<img width="473" alt="BI2" src="https://github.com/ikuro/Training-1/assets/14724683/e739713f-b496-4e1a-9378-97b5f117b4dd">
+
 
 ### Recommendations
 Based on the analysis, we recommend the following actions:
