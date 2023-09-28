@@ -17,6 +17,7 @@
 2. numbering 
 
 ## For Example
+---
 ### Data Cleaning/preparation
 1. step 1
 2. step 2
@@ -49,3 +50,18 @@ I removed clients who .....
 ### References
 1. SQL For newbies by Ikuro
 2. [Stack Overflow](stack.com)
+
+
+😸
+
+😄
+|Heading|Heading|
+|-------|--------|
+|content1|content2|
+|Python|SQL|
+
+`col`
+
+**bold**
+
+*italics*
