@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Learning how to use Github](#learning-how-to-use-github)
 - [Recomendations](recomendations)
+
 ## Learning how to use Github
 ### Steps
 - On the top right, click create a new repository from the plus icon -drop down
@@ -43,4 +44,4 @@ I removed clients who .....
 
 ### References
 1. SQL For newbies by Ikuro
-2. [Stack Overflow]stack.com
+2. [Stack Overflow](stack.com)
